@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "2JVMFB5V2C.com.tiantianchaopao.cxr",
-            "paths": ["/tiantainchaopap/*"]
+            "paths": ["*"]
         }]
     }
 }
