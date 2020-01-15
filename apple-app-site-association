@@ -2,8 +2,8 @@
     "applinks": {
         "apps": [],
         "details": [{
-            "appID": "W98ZK88EK9.com.smddc.bmi",
-            "paths": ["*"]
+            "appID": "2JVMFB5V2C.com.tiantianchaopao.cxr",
+            "paths": ["/tiantainchaopap/*"]
         }]
     }
 }
